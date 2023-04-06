@@ -1,3 +1,0 @@
----
-kubernetes_helm_tgz: 'helm-v{{ kubernetes_helm_version }}-{{ kubernetes_helm_platform }}.tar.gz'
-kubernetes_helm_url: 'https://get.helm.sh/{{ kubernetes_helm_tgz }}'
